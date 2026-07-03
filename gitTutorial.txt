@@ -12,3 +12,10 @@ git status
 git add .
 git commit -m "{Commit Message Here}"
 git push
+
+# Other Git topics to study
+# - Branching & Merging
+# - Handling Merge Conflicts
+# - Pull Requests & Fetch / Pull
+# - Reverting Mistakes (Log / Revert)
+# These should be practiced in a separate test repository
