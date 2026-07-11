@@ -212,7 +212,7 @@ int main(){
 
     // Simple function to produce the factorial of a positive integer
     // - Imported from other file
-    std::cout << "The factorial of 5 is: " << factorial(5) << "." << std::endl;
+    std::cout << "The factorial of 5 is: " << oth::factorial(5) << "." << std::endl;
 
     //---------------------------------------------------------
     // Classes, Structs, & Enumeration

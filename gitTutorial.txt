@@ -13,6 +13,9 @@ git add .
 git commit -m "{Commit Message Here}"
 git push
 
+# Renaming a repository from the command line
+gh repo rename {REPO NAME HERE}
+
 # Other Git topics to study
 # - Branching & Merging
 # - Handling Merge Conflicts
